@@ -11,7 +11,11 @@ On the side, I run **[MANNABRI](https://mannabri.de)**, a small indie studio whe
 
 ## Tech I work with
 
-React · TypeScript · Three.js · Swift · SwiftUI
+**Web:** React · TypeScript
+
+**3D:** Three.js · React Three Fiber · drei · Rapier · Blender
+
+**Apps:** Swift · SwiftUI
 
 ## Find me
 
