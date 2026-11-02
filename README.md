@@ -1,15 +1,12 @@
 # Hi, I'm Manuel 👋
 
-I'm a frontend developer with a growing obsession for **3D on the web**. Right now I'm going deep into Three.js and building portfolio projects to show what I can do.
+I'm a frontend developer with a growing obsession for **3D on the web**. Right now I'm going deep into Three.js and building projects to show what I can do:
 
-🚀 **[Check out my 3D portfolio](https://manuel-annabring.github.io/)** — a Litfaßsäule (advertising column) built with React Three Fiber.
+🚀 **[3D portfolio](https://manuel-annabring.github.io/)** — a Litfaßsäule (advertising column) built with React Three Fiber.
+
+⌨️ **[Typewriter](https://manuel-annabring.github.io/typewriter/)** — a 3D typewriter in your browser.
 
 On the side, I run **[MANNABRI](https://mannabri.de)**, a small indie studio where I build iOS apps with Swift and SwiftUI.
-
-## What I'm working on
-
-- 🧊 3D web projects with Three.js — see my [portfolio](https://manuel-annabring.github.io/)
-- 📱 iOS apps under [MANNABRI](https://github.com/mannabri)
 
 ## Tech I work with
 
